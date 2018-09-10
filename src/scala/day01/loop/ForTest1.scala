@@ -65,4 +65,8 @@ object ForTest1 {
     }
     print(result  + " ")
   }
+  println("------------------------------")
+  var list = List("Marry","Tom","aa")
+  list.foreach(println)
+  print("------------------------------------")
 }
