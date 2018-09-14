@@ -1,95 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d88368b-9e0c-48ec-a2fd-b6e543d60fad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/polym/ArrayElement.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/polym/Element.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/polym/ElementTest$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/polym/ElementTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/polym/LineElement.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/polym/UniforElement.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/traitdemo/Dog$$anon$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/traitdemo/Dog$$anon$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/traitdemo/Dog$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/traitdemo/Dog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/Apple.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/BWM.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/Bike.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/Car.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/Father.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/Fruit.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/GenericClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/GenericClass1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/GenericClass2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/GenericClassTest$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/GenericClassTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/GenericFunc$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/GenericFunc.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/GranderFather.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/ImplicitDemo$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/ImplicitDemo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/LowerBound$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/LowerBound.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/Monkey.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/Son.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/UpperBound$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/UpperBound.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/Vehicle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo02$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo02$delayedInit$body.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo02.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo03$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo03$delayedInit$body.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo03.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo04$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo04$delayedInit$body.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo04.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo1$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo1$delayedInit$body.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CheckTimeOutTask$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CheckTimeOutTask.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/HeartBeat$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/HeartBeat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/MapTest$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/MapTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/OptionDemo$$anonfun$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/OptionDemo$$anonfun$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/OptionDemo$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/OptionDemo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/PartialFuncDemo$$anonfun$fun1$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/PartialFuncDemo$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/PartialFuncDemo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/SimpleValueDemo$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/SimpleValueDemo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/SubmitTask$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/SubmitTask.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/Fruit.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/GenericClass.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/GenericFunc.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/LowerBound.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/UpperBound.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/casedemo/CaseDemo02.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/casedemo/CaseDemo03.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/casedemo/CaseDemo04.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/casedemo/CaseDemo1.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/casedemo/MapTest.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/casedemo/OptionDemo.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/casedemo/PartialFuncDemo.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/casedemo/SimpleValueDemo.scala" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SCALA/scala/day04/polym/PolymDemo.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/ListDemo$.class" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/ListDemo$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$1.class" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$2.class" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$3.class" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$4.class" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$5.class" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$6.class" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$.class" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scala/day04/polym/PolymDemo.scala" afterPath="$PROJECT_DIR$/src/scala/day04/polym/PolymDemo.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scala/day04/traitdemo/Dog.scala" afterPath="$PROJECT_DIR$/src/scala/day04/traitdemo/Dog.scala" />
-    </list>
+    <list default="true" id="4d88368b-9e0c-48ec-a2fd-b6e543d60fad" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -624,12 +536,12 @@
       <workItem from="1536626286797" duration="11065000" />
       <workItem from="1536671292638" duration="3400000" />
       <workItem from="1536711222614" duration="32379000" />
-      <workItem from="1536884607004" duration="19382000" />
+      <workItem from="1536884607004" duration="19509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79906000" />
+    <option name="totallyTimeSpent" value="80033000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
