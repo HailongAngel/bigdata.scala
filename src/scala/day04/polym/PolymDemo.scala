@@ -1,9 +1,9 @@
 package scala.day04.polym
-（*）多态
+/*（*）多态
 1）什么是多态：目的是为了让代码更加，降低耦合
 有继承或实现特质（接口）
 父类引用指向子类对象或接口指向实现类
-方法需要重写
+方法需要重写*/
 
 abstract class Element {
   def demo(): Unit ={

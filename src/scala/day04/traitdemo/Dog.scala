@@ -10,7 +10,7 @@ object Dog{
   def main(args: Array[String]): Unit = {
     //动态添加特质，在创建类的实例的时候，可以动态添加特质
     val dog = new Dog with Beatable
-    dog.beat()
+    dog.beat
 
     val dog2 = new Dog with Flyable{
       //实现了特质方法

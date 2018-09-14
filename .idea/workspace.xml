@@ -2,19 +2,93 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d88368b-9e0c-48ec-a2fd-b6e543d60fad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day04/List/ListDemo.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day04/List/MapDemo.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day04/array/ArrayDemo.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day04/polym/PolymDemo.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day04/traitdemo/Animal.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day04/traitdemo/Beatable.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day04/traitdemo/Dog.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day04/traitdemo/Flyable.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day04/traitdemo/Monkey.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SCALA/scala/day04/DateUtils$.class" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/DateUtils$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SCALA/scala/day04/Test$.class" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/Test$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/polym/ArrayElement.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/polym/Element.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/polym/ElementTest$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/polym/ElementTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/polym/LineElement.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/polym/UniforElement.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/traitdemo/Dog$$anon$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/traitdemo/Dog$$anon$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/traitdemo/Dog$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/traitdemo/Dog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/Apple.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/BWM.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/Bike.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/Car.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/Father.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/Fruit.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/GenericClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/GenericClass1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/GenericClass2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/GenericClassTest$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/GenericClassTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/GenericFunc$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/GenericFunc.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/GranderFather.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/ImplicitDemo$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/ImplicitDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/LowerBound$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/LowerBound.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/Monkey.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/Son.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/UpperBound$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/UpperBound.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/Vehicle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo02$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo02$delayedInit$body.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo02.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo03$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo03$delayedInit$body.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo03.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo04$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo04$delayedInit$body.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo04.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo1$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo1$delayedInit$body.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CaseDemo1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CheckTimeOutTask$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/CheckTimeOutTask.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/HeartBeat$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/HeartBeat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/MapTest$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/MapTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/OptionDemo$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/OptionDemo$$anonfun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/OptionDemo$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/OptionDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/PartialFuncDemo$$anonfun$fun1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/PartialFuncDemo$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/PartialFuncDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/SimpleValueDemo$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/SimpleValueDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/SubmitTask$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day05/casedemo/SubmitTask.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/Fruit.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/GenericClass.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/GenericFunc.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/LowerBound.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/UpperBound.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/casedemo/CaseDemo02.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/casedemo/CaseDemo03.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/casedemo/CaseDemo04.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/casedemo/CaseDemo1.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/casedemo/MapTest.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/casedemo/OptionDemo.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/casedemo/PartialFuncDemo.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/day05/casedemo/SimpleValueDemo.scala" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SCALA/scala/day04/polym/PolymDemo.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/ListDemo$.class" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/ListDemo$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$1.class" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$2.class" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$3.class" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$4.class" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$5.class" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$6.class" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$$anonfun$main$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$.class" afterPath="$PROJECT_DIR$/out/production/SCALA/scala/day04/List/MapDemo$.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scala/day04/polym/PolymDemo.scala" afterPath="$PROJECT_DIR$/src/scala/day04/polym/PolymDemo.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scala/day04/traitdemo/Dog.scala" afterPath="$PROJECT_DIR$/src/scala/day04/traitdemo/Dog.scala" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,73 +100,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="ListDemo.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scala/day04/List/ListDemo.scala">
+      <file leaf-file-name="OptionDemo.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scala/day05/casedemo/OptionDemo.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+            <state relative-caret-position="183">
+              <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MapDemo.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scala/day04/List/MapDemo.scala">
+      <file leaf-file-name="CaseDemo1.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scala/day05/casedemo/CaseDemo1.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="36" column="48" lean-forward="false" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+            <state relative-caret-position="-310">
+              <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PolymDemo.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/scala/day04/polym/PolymDemo.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="22" column="35" lean-forward="false" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dog.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scala/day04/traitdemo/Dog.scala">
+      <file leaf-file-name="CaseDemo02.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scala/day05/casedemo/CaseDemo02.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DateUtils.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scala/day04/DateUtils.scala">
+      <file leaf-file-name="CaseDemo03.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scala/day05/casedemo/CaseDemo03.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-              <folding>
-                <element signature="e#21#54#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StaticTest.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scala/day04/StaticTest.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="7" column="46" lean-forward="false" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+            <state relative-caret-position="310">
+              <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayDemo.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scala/day04/array/ArrayDemo.scala">
+      <file leaf-file-name="CaseDemo04.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scala/day05/casedemo/CaseDemo04.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="48" column="3" lean-forward="true" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
+            <state relative-caret-position="572">
+              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fruit.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/scala/day05/Fruit.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenericClass.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scala/day05/GenericClass.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1856">
+              <caret line="64" column="12" lean-forward="false" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenericFunc.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scala/day05/GenericFunc.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LowerBound.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scala/day05/LowerBound.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UpperBound.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scala/day05/UpperBound.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -146,8 +248,22 @@
         <option value="$PROJECT_DIR$/src/scala/day04/array/ArrayDemo.scala" />
         <option value="$PROJECT_DIR$/src/scala/day04/List/ListDemo.scala" />
         <option value="$PROJECT_DIR$/src/scala/day04/List/MapDemo.scala" />
-        <option value="$PROJECT_DIR$/src/scala/day04/traitdemo/Dog.scala" />
         <option value="$PROJECT_DIR$/src/scala/day04/polym/PolymDemo.scala" />
+        <option value="$PROJECT_DIR$/src/scala/day04/traitdemo/Dog.scala" />
+        <option value="$PROJECT_DIR$/src/scala/day05/Vehicle.scala" />
+        <option value="$PROJECT_DIR$/src/scala/day05/Fruit.scala" />
+        <option value="$PROJECT_DIR$/src/scala/day05/LowerBound.scala" />
+        <option value="$PROJECT_DIR$/src/scala/day05/GenericFunc.scala" />
+        <option value="$PROJECT_DIR$/src/scala/day05/GenericClass.scala" />
+        <option value="$PROJECT_DIR$/src/scala/day05/UpperBound.scala" />
+        <option value="$PROJECT_DIR$/src/scala/day05/casedemo/MapTest.scala" />
+        <option value="$PROJECT_DIR$/src/scala/day05/casedemo/PartialFuncDemo.scala" />
+        <option value="$PROJECT_DIR$/src/scala/day05/casedemo/SimpleValueDemo.scala" />
+        <option value="$PROJECT_DIR$/src/scala/day05/casedemo/OptionDemo.scala" />
+        <option value="$PROJECT_DIR$/src/scala/day05/casedemo/CaseDemo1.scala" />
+        <option value="$PROJECT_DIR$/src/scala/day05/casedemo/CaseDemo02.scala" />
+        <option value="$PROJECT_DIR$/src/scala/day05/casedemo/CaseDemo03.scala" />
+        <option value="$PROJECT_DIR$/src/scala/day05/casedemo/CaseDemo04.scala" />
       </list>
     </option>
   </component>
@@ -166,9 +282,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="817" />
-    <option name="y" value="34" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="590" />
+    <option name="y" value="13" />
     <option name="width" value="1400" />
     <option name="height" value="990" />
   </component>
@@ -188,6 +304,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -245,14 +363,19 @@
               <item name="day04" type="462c0819:PsiDirectoryNode" />
               <item name="traitdemo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HelloScala" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SCALA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="day05" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,7 +386,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="last_opened_file_path" value="E:/学习资料/大数据/安装包/SCALA/scala-2.11.12" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/SCALA/src/scala/day04/array/ArrayDemo.scala" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/SCALA/src/scala/day05/casedemo/OptionDemo.scala" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -282,15 +405,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MapDemo">
-    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.CaseDemo04">
+    <configuration name="CaseDemo02" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="scala.day04.array.*" />
+          <option name="PATTERN" value="scala.day05.casedemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="scala.day04.array.ArrayDemo" />
+      <option name="MAIN_CLASS_NAME" value="scala.day05.casedemo.CaseDemo02" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -302,14 +425,14 @@
       <module name="SCALA" />
       <envs />
     </configuration>
-    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true">
+    <configuration name="CaseDemo03" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="scala.day04.List.*" />
+          <option name="PATTERN" value="scala.day05.casedemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="scala.day04.List.ListDemo" />
+      <option name="MAIN_CLASS_NAME" value="scala.day05.casedemo.CaseDemo03" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -321,14 +444,14 @@
       <module name="SCALA" />
       <envs />
     </configuration>
-    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true">
+    <configuration name="CaseDemo04" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="scala.day04.List.*" />
+          <option name="PATTERN" value="scala.day05.casedemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="scala.day04.List.MapDemo" />
+      <option name="MAIN_CLASS_NAME" value="scala.day05.casedemo.CaseDemo04" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -340,14 +463,14 @@
       <module name="SCALA" />
       <envs />
     </configuration>
-    <configuration name="Monkey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CaseDemo1" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="scala.day04.traitdemo.*" />
+          <option name="PATTERN" value="scala.day05.casedemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="scala.day04.traitdemo.Monkey" />
+      <option name="MAIN_CLASS_NAME" value="scala.day05.casedemo.CaseDemo1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -359,14 +482,14 @@
       <module name="SCALA" />
       <envs />
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
+    <configuration name="SimpleValueDemo" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="scala.day04.*" />
+          <option name="PATTERN" value="scala.day05.casedemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="scala.day04.Test" />
+      <option name="MAIN_CLASS_NAME" value="scala.day05.casedemo.SimpleValueDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -460,19 +583,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Monkey" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ArrayDemo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ListDemo" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MapDemo" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SimpleValueDemo" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CaseDemo1" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CaseDemo02" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CaseDemo03" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CaseDemo04" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MapDemo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ListDemo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ArrayDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Monkey" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CaseDemo04" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CaseDemo03" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CaseDemo02" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CaseDemo1" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SimpleValueDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -500,12 +623,13 @@
       <workItem from="1536582654589" duration="455000" />
       <workItem from="1536626286797" duration="11065000" />
       <workItem from="1536671292638" duration="3400000" />
-      <workItem from="1536711222614" duration="31774000" />
+      <workItem from="1536711222614" duration="32379000" />
+      <workItem from="1536884607004" duration="19382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59919000" />
+    <option name="totallyTimeSpent" value="79906000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -517,30 +641,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="590" y="13" width="1400" height="990" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32682925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28473803" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29840547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3257403" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34146342" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32560974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13251074" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18853696" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -562,117 +686,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/scala/day02/function/ScalaWordCount.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="33" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="5" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scala/day02/function/ScalaWordCount2.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Scala/scala-2.11.12/lib/scala-library.jar!/scala/collection/TraversableLike.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scala/day02/function/FuncDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Scala/scala-2.11.12/lib/scala-library.jar!/scala/collection/TraversableLike.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scala/day02/function/ScalaWordCount.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scala/day01/loop/ifDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1015">
-          <caret line="35" column="7" lean-forward="false" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scala/day01/loop/ForTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1740">
-          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scala/day01/loop/IfDemo1.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1015">
-          <caret line="35" column="12" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scala/day01/loop/ForTest1.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2001">
-          <caret line="69" column="20" lean-forward="false" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scala/day01/loop/BreakDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scala/day01/loop/ifDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1015">
-          <caret line="35" column="7" lean-forward="false" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scala/day01/loop/ForTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1740">
-          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scala/day01/loop/IfDemo1.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1015">
-          <caret line="35" column="12" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scala/day01/loop/ForTest1.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2001">
-          <caret line="69" column="20" lean-forward="true" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/scala/day01/loop/BreakDemo.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
@@ -723,7 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
           <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -731,7 +743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
           <caret line="5" column="33" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="5" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -739,7 +750,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -747,31 +757,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="485">
           <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/day01/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/day01/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/day01/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/java/day01/Test2.java" />
     <entry file="jar://D:/Scala/scala-2.11.12/lib/scala-library.jar!/scala/Predef.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -787,23 +781,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="454">
           <caret line="502" column="12" lean-forward="false" selection-start-line="502" selection-start-column="12" selection-end-line="502" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scala/day03/Test1.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day03/Test1.scala" />
     <entry file="file://$PROJECT_DIR$/src/scala/day03/Student.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
           <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -811,23 +796,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1334">
           <caret line="52" column="10" lean-forward="false" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scala/package.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/package.scala" />
     <entry file="file://$PROJECT_DIR$/src/scala/day03/Constructor.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-367">
           <caret line="19" column="91" lean-forward="false" selection-start-line="19" selection-start-column="91" selection-end-line="19" selection-end-column="91" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -863,36 +839,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scala/day04/demo/PolymDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day04/demo/PolymDemo.java" />
     <entry file="file://$PROJECT_DIR$/src/scala/day04/array/ArrayDemo.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="48" column="3" lean-forward="true" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scala/day04/traitdemo/Dog.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1392">
+          <caret line="48" column="3" lean-forward="false" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scala/day04/DateUtils.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        <state relative-caret-position="609">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding>
-            <element signature="e#21#54#0" expanded="true" />
+            <element signature="e#21#54#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -907,24 +868,152 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scala/day04/List/ListDemo.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        <state relative-caret-position="1247">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scala/day04/List/MapDemo.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
+        <state relative-caret-position="1044">
           <caret line="36" column="48" lean-forward="false" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day05.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scala/day04/polym/PolymDemo.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="22" column="35" lean-forward="false" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        <state relative-caret-position="213">
+          <caret line="19" column="36" lean-forward="false" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day04/traitdemo/Dog.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/学习资料/大数据/安装包/SCALA/scala-2.11.12/src/library/scala/Option.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-520">
+          <caret line="97" column="22" lean-forward="false" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day05/casedemo/MapTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day05/casedemo/PartialFuncDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day05/casedemo/SimpleValueDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day05/casedemo/OptionDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day05/casedemo/CaseDemo1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-310">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day05/casedemo/CaseDemo02.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day05/casedemo/CaseDemo03.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day05/casedemo/CaseDemo04.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day05/GenericClass.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1856">
+          <caret line="64" column="12" lean-forward="false" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day05/GenericFunc.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day05/UpperBound.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day05/LowerBound.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day05/Fruit.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
           <folding />
         </state>
       </provider>
