@@ -3,6 +3,7 @@ package scala.day05.casedemo
 object PartialFuncDemo {
   /**
     * 偏函数
+    * 传一个参数，返回一个参数，省略match
     */
 def fun1: PartialFunction[String,Int] = {
   case "one" => {
